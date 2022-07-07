@@ -13,7 +13,7 @@
     "history": "4.9.0",
     "lodash": "4.17.13",
     "modusbox-ui-components": "https://modusbox-release-artifacts.s3.amazonaws.com/ui-components/modusbox-ui-components-1.16.3.tgz",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.25",
     "prettier": "1.17.0",
     "react": "^16.8.6",
